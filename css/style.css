@@ -17,9 +17,10 @@ figcaption {
 };
 
 .milk-text {
-  font: bold 2.6em 'Elsie', cursive;
+  /*font: bold 2.6em 'Elsie', cursive;
   color: white;
-  text-shadow: 0 2px 3px #000;
+  text-shadow: 0 2px 3px #000;*/
+  background: purple;
 }
 
 #logo {
@@ -33,3 +34,5 @@ figcaption {
 #logo h2 {
   font-family: 'Elsie', cursive;
 }
+
+/* Psuedo Selector  event states as links*/
