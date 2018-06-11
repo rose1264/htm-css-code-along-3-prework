@@ -17,5 +17,7 @@ figcaption {
 };
 
 .milk-text {
-  
+  font: bold 2.6 'Elsie', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
 }
